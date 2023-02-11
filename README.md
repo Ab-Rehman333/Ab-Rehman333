@@ -1,23 +1,7 @@
 <h1 id="title">I'm Abdul Rehman</h1>
 <p>I'm a self-taught programmer and a JavaScript lover</p>
-``` CSS 
-<h1 id="title">I'm Abdul Rehman</h1>
-<p>I'm a self-taught programmer and a JavaScript lover</p>
-```
-
-``` Javscript 
-const title = document.getElementById("title");
-const text = ["I'm Abdul Rehman", "I'm a self-taught programmer", "JavaScript lover"];
-
-let counter = 0;
-setInterval(() => {
-  title.innerHTML = text[counter % text.length];
-  counter++;
-}, 2000);
 
 
-
-```
 
 <img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="coding" >
 
