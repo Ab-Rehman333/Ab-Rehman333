@@ -1,6 +1,31 @@
+<h1 id="title">I'm Abdul Rehman</h1>
+<p>I'm a self-taught programmer and a JavaScript lover</p>
+<style>
+  #title {
+  color: #fff;
+  text-shadow: 0 0 10px #fff;
+  animation: glowing 2s ease-in-out infinite;
+}
+
+@keyframes glowing {
+  0% { text-shadow: 0 0 10px #fff; }
+  100% { text-shadow: 0 0 20px #ff0080; }
+}
+
+</style>
+<script>
+  const title = document.getElementById("title");
+const text = ["I'm Abdul Rehman", "I'm a self-taught programmer", "JavaScript lover"];
+
+let counter = 0;
+setInterval(() => {
+  title.innerHTML = text[counter % text.length];
+  counter++;
+}, 2000);
+
+</script>
 <img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="coding" >
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">I am a passionate Web developer From Pakistan</h3>
+
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="width:400px" alt="coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-rehman333&label=Profile%20views&color=0e75b6&style=flat" alt="ab-rehman333" /> </p>
