@@ -1,5 +1,5 @@
 <h1 id="title">I'm Abdul Rehman</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Aldrin...;A+Self+taught+Programmer...;I'm+a+JavaScript+Developer...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Abdul +Rehman...;A+Self+taught+Programmer...;I'm+a+JavaScript+Developer...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)]
 
 
 <img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="coding" >
