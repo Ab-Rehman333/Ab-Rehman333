@@ -1,6 +1,6 @@
 
 ### Hi My Georgious friends On the Internet Welcome to My Profile 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Abdul+Rehman...;A+Self+taught+Programmer...;I'm+a+JavaScript+Lover...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you,+I'm+Abdul+Rehman...;A+Self+taught+Programmer...;QA+Special+list...;I'm+a+JavaScript+Lover...;I'm+Full+Stack+Web+Developer...)](https://git.io/typing-svg)
 
 
 
