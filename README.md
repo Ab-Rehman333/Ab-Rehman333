@@ -7,8 +7,10 @@
 <img src="https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="coding" >
 
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="width:400px" alt="coding" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-rehman333&label=Profile%20views&color=0e75b6&style=flat" alt="ab-rehman333" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ab-Rehman333/count.svg" />
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
