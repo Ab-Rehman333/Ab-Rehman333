@@ -21,7 +21,7 @@
 - 📫 How to reach me **hafizrehman925@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
-
+![Codewars](https://github.r2v.ch/codewars?user=Ab-Rehman333)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdulrehman5865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulrehman5865" height="30" width="40" /></a>
