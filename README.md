@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Html,Css ,Javascript ,SCss ,wordpress React,**
+- 💬 Ask me about **Html,Css ,Javascript ,PHP,SCss ,wordpress React,**
 
 - 📫 How to reach me **hafizrehman925@gmail.com**
 
